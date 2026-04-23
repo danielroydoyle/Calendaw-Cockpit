@@ -1,0 +1,11 @@
+[2026-04-23 14:43:26] SHED: 'ButtonWithMenuWidget' -> 'GtkButton' in transport_controls.ui. REASON: Decoupling from Zrythm C++ class to enable Python GTK4 compatibility.
+[2026-04-23 14:44:03] SHED: 'ButtonWithMenuWidget' -> 'GtkButton' in transport_controls.ui. REASON: Decoupling from Zrythm C++ class to enable Python GTK4 compatibility.
+[2026-04-23 15:08:23] SHED: 'PanelToggleButton' -> 'GtkToggleButton'. REASON: Using standard GTK4 widgets for Python compatibility.
+[2026-04-23 15:08:36] SHED: 'ToolboxWidget' -> 'GtkBox'. REASON: Decoupling custom Zrythm tool logic.
+[2026-04-23 15:15:34] SHED: 'PanelToggleButton' & 'ToolboxWidget' in main_window.ui. TARGET: Cosmic Aesthetic Sync.
+[2026-04-23 15:38:25] SHED: '<template>' -> '<object>'. REASON: Converting C++ composite widgets to standard GTK4 objects for Python bootstrap.
+[2026-04-23 15:41:12] SHED: 'area' property in main_window.ui. REASON: Removing custom Zrythm dock logic for standard GTK compatibility.
+[2026-04-23 15:53:41] MASS STUBBING: Replaced Zrythm-specific Docks and Panels with GtkBox. REASON: Establishing stable skeleton for Cosmic UI.
+[2026-04-23 16:01:33] SHED: 'destroy' signal in main_window.ui. REASON: Moving window management from XML to Python for Sovereign Control.
+[2026-04-23 16:24:56] ICON MAPPING: Translated Zrythm icon names to Freedesktop standards for Cosmic alignment.
+[2026-04-23 16:32:04] ICON RE-MAPPING: Shedding Zrythm icon ghosts for Cosmic standard symbolics.
