@@ -4,12 +4,18 @@ window {
     background-color: #1a1a1a;
 }
 
-button#trans_record image {
+/* The Standard ID Selector */
+#trans_record image {
+    color: #ff3333 !important;
+}
+
+/* The Sovereign Override Class */
+.record-active image {
     color: #ff3333 !important;
 }
 
 #trans_record {
-    border: 1px solid rgba(255, 51, 51, 0.5) !important;
+    border: 1px solid rgba(255, 51, 51, 0.4) !important;
 }
 
 image {

@@ -9,3 +9,4 @@
 [2026-04-23 16:01:33] SHED: 'destroy' signal in main_window.ui. REASON: Moving window management from XML to Python for Sovereign Control.
 [2026-04-23 16:24:56] ICON MAPPING: Translated Zrythm icon names to Freedesktop standards for Cosmic alignment.
 [2026-04-23 16:32:04] ICON RE-MAPPING: Shedding Zrythm icon ghosts for Cosmic standard symbolics.
+[Fri 24 Apr 08:49:52 BST 2026] PIXEL-TRUTH: Purified CSS and synced with Python Override class.
